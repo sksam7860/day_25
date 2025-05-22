@@ -1,0 +1,10 @@
+a="REVIEW"
+print(a)
+b=a[2]+a[3]+a[4]+a[5]
+print(b)
+c=a[5]+a[4]
+print(c)
+d=a[-6]+a[-5]
+print(d)
+e=a[-1]+a[-2]+a[-3]+a[-4]
+print(e)

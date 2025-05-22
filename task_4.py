@@ -1,0 +1,11 @@
+a="LAYOUT"
+b=a[-3]+a[-2]+a[-1]
+print(b)
+c=a[0]+a[1]+a[2]
+print(c)
+d=a[5]+a[4]+a[3]+a[2]+a[1]+a[0]
+print(d)
+e=a[2]+a[3]+a[4]
+print(e)
+f=a[-4]+a[-3]+a[-2]
+print(f)

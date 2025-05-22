@@ -1,0 +1,10 @@
+a="file"
+print(a)
+b=a[2]+a[1]+a[0]
+print(b)
+c=a[3]+a[2]+a[1]+a[0]
+print(c)
+d=a[-4]+a[-3]+a[-2]+a[-1]
+print(d)
+e=a[-3]+a[-2]+a[-1]
+print(e)

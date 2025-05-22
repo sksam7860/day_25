@@ -1,0 +1,10 @@
+a="mailing"
+print(a)
+b=a[-7]+a[-6]+a[-5]+a[-4]
+print(b)
+c=a[-3]+a[-2]+a[-1]
+print(c)
+d=a[-7]+a[-5]+a[-3]+a[-1]
+print(d)
+e=a[6]+a[4]+a[2]+a[0]
+print(e)

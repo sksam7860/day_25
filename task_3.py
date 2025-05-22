@@ -1,0 +1,10 @@
+a="insert"
+print(a)
+b=a[0]+a[1]
+print(b)
+c=a[0]+a[1]+a[2]+a[3]+a[4]+a[5]
+print(c)
+d=a[-1]+a[-2]+a[-3]+a[-4]+a[-5]+a[-6]
+print(d)
+e=a[-5]+a[-6]
+print(e)
